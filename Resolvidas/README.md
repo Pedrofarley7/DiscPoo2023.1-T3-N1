@@ -5,7 +5,7 @@
  b)  | A média das idades dos jogadores de cada time.
  c)  | A média das alturaas de todos os jogadores do campeonato.
  d)  | A porcentagem de jogadores com mais de 80 quilos entre todos os jogadores do campeonato.
- 16  | Faça um programa que recebe dois numeros. Calcule e mostre:
+   16     | Faça um programa que recebe dois numeros. Calcule e mostre:
  a)  | A soma dos números pares desses intervalo de números, incluindo os números digitados.
  b)  | A multiplicação dos números ímpares desse intervalo de números, incluindo os números digitados.
  17  | Faça um programa que receba dois números. Calcule e mostre:
