@@ -32,7 +32,7 @@ Questão | Enunciado
  22  | Foi feita uma pesquisa para determinar o indice de mortalidade infantil em um certo periodo, Faga um programa que:
  a)  | Leia o número de crianças nascidas em um periodo.
  b)  | O sexo (M ou F) e o tempo de vida para criança nascida.
- ()  | Calcule e mostre: 
+ .  | Calcule e mostre: 
  c)  | A porcentagem de crianças do sexo feminino mortas no período.
  d)  | A porcentagem de crianças do sexo masculinos mortas no período.
  e)  | A porcentagem de crianças que viveram 24 meses ou menos no período.
@@ -59,7 +59,7 @@ R$ 1.150,00 | 150 | 6 | R$ 191,67
 
 Questão | Enunciado
 :------: | :-------:
-33 | Faça um programa para ler o código, o sexo (M - Masculino, F - Feminino) e o número de horas/aula dadas mensalmente pelos professores de uma universidade, sabendo-se que que cada hora/aula vale R$ 18,50. Emita uma listagem contendo o código, o salário bruto e o salário líquido ( levando em consideração os descontos explicados a seguir ) de todos os professores lidos. Mostre também a média dos salários líquidos dos professores do sexo masculino e o salário bruto dos professores do sexo feminino. Considere:
+33 | Faça um programa para ler o código, o sexo (M - Masculino, F - Feminino) e o número de horas/aula dadas mensalmente pelos professores de uma universidade, sabendo-se que que cada hora/aula vale R$ 18,50. Emita uma listagem contendo o código, o salário bruto e o salário líquido (levando em consideração os descontos explicados a seguir) de todos os professores lidos. Mostre também a média dos salários líquidos dos professores do sexo masculino e o salário bruto dos professores do sexo feminino. Considere:
 a) | Desconto para homens 10% e para as mulheres 5%;
 b) | As informações terminarão quando for lido o código = 99999;
 
@@ -68,3 +68,32 @@ Questão | Enunciado
 36 | Faça um programa que:
 a) | Leia um número indeterminado de linhas contendo cada uma a idade de um indíviduo. A ultima linha, que não entrará nos cálculos, contém o valor da idade igual a zero;
 b) | Calcule e mostre a idade média desse grupo de indíviduos;
+
+
+Questão | Enunciado
+:------: | :-------:
+37 | Uma empresa decidiu fazer um levantamento em relação aos candidatos que se apresentarem para preenchimento de vagas no seu quadro de funcionários. Supondo que você seja o programador dessa empresa, faça um programa que calcule:
+a) | Leia, para cada candidato, a idade, o sexo (M ou F) e a experiência no serviço (S ou N). Para encerrar a entrada de dados digite zero para a idade;
+. | Calcule e mostre:
+b) | O número de candidatos do sexo feminino.
+c) | O número de candidatos do sexo masculino.
+d) | A idade média dos homens que já tem experiência no serviço.
+e) | A percentagem dos homens com mais de 45 anos entre o total de homens.
+f) | O número de mulheres com idade inferior a 35 anos e com experiência no serviço.
+g) | A menor idade entre as mulheres que já têm experiência no serviço.
+
+
+Questão | Enunciado
+:------: | :-------:
+38 | Faça um programa que receba o valor do salário mínino e uma lista contendo a quantidade de quilowatts gasta por consumidor e o tipo de consumidor ( 1 - Residencial, 2 - Comercial, 3 - Industrial)
+. | Calcule e mostre:
+a) | O valor de cada quilowatt, sabendo que o quilowatt custa 1/8 do salário mínimo.
+b) | O valor a ser pago por cada consumidor (conta final + acréscimo), considerando que o acréscimno é o mesmo da tabela a seguir.
+c) | O faturamento geral da empresa.
+d) | A quantidade de consumidores que pagam entre R$ 500,00 e R$ 1.000,00.
+
+Tipo | % do acréscimo sobre o valor gasto
+:------: | :-------:
+1 | 5
+2 | 10
+3 | 15
